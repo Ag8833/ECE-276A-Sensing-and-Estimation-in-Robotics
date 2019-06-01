@@ -1,0 +1,10 @@
+"ImageNo - ""001.jpg"", TopLeftX - "566", TopLeftY - "370", BottomRightX - "662", BottomRightY - "525", Distance - "6.159839860158966
+"ImageNo - ""002.jpg"", TopLeftX - "581", TopLeftY - "469", BottomRightX - "643", BottomRightY - "529", Distance - "7.324451879180413
+"ImageNo - ""003.jpg"", TopLeftX - "632", TopLeftY - "88", BottomRightX - "791", BottomRightY - "531", Distance - "0.36213825256267906
+"ImageNo - ""004.jpg"", TopLeftX - "475", TopLeftY - "271", BottomRightX - "799", BottomRightY - "624", Distance - "0.734897583382421
+"ImageNo - ""005.jpg"", TopLeftX - "613", TopLeftY - "408", BottomRightX - "681", BottomRightY - "510", Distance - "6.9888432543441255
+"ImageNo - ""006.jpg"", TopLeftX - "344", TopLeftY - "167", BottomRightX - "944", BottomRightY - "713", Distance - "-26.474342092205468
+"ImageNo - ""007.jpg"", TopLeftX - "608", TopLeftY - "113", BottomRightX - "656", BottomRightY - "186", Distance - "7.346992756967925
+"ImageNo - ""008.jpg"", TopLeftX - "527", TopLeftY - "432", BottomRightX - "704", BottomRightY - "496", Distance - "2.277799796755321
+"ImageNo - ""009.jpg"", TopLeftX - "657", TopLeftY - "570", BottomRightX - "690", BottomRightY - "717", Distance - "7.206425338543024
+"ImageNo - ""010.jpg"", TopLeftX - "627", TopLeftY - "236", BottomRightX - "672", BottomRightY - "303", Distance - "7.398022799736875
